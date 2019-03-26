@@ -1,1 +1,1 @@
-# Code aus der Vorlesung MW243
+# Code aus Vorlesung MW243
