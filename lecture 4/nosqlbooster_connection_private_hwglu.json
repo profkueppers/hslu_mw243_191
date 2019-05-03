@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Private: MongoDB Server @ HS-LU_student",
+    "uri": {
+      "hosts": [
+        {
+          "host": "nosql.campus.fh-ludwigshafen.de",
+          "port": 27017
+        }
+      ],
+      "options": {
+        "readPreference": "primary",
+        "authSource": "mw243_XXXXXX"
+      },
+      "scheme": "mongodb",
+      "username": "mw243_XXXXXX",
+      "password": "d3a16135e1347006436f3179ce20d589"
+    },
+    "colorFlag": 0,
+    "authMode": 1,
+    "connectionType": "replica",
+    "certRelated": {}
+  }
+]
